@@ -8,3 +8,4 @@ This is the preview asssignment of numpy package. All students should work on th
 Please follow the preview material and go through all the codes in detail. 
 
 [Quick Link to Numpy notebook code](https://github.com/techx-cv/Python_Numpy_Tutorial/blob/main/codes/python%2Bnumpy.ipynb)
+[Quick Link to Instruction](https://github.com/techx-cv/Python_Numpy_Tutorial/blob/main/instructions/python%2Bnumpy.pdf)
