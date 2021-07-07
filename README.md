@@ -6,4 +6,5 @@ This is the preview asssignment of numpy package. All students should work on th
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ## Tutorial Materials
 Please follow the preview material and go through all the codes in detail. 
+
 [Quick Link to Numpy notebook code](https://github.com/techx-cv/Python_Numpy_Tutorial/blob/main/codes/python%2Bnumpy.ipynb)
